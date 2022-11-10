@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-11-07 13:33:50
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-08 15:09:58
- * @FilePath: \webpage\src\models\UserInfo.ts
- */
 import { Effect, Reducer, request, Subscription, useModel } from 'umi';
 
 export interface UserInfoModelState {

@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-11-03 09:08:25
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-09 09:45:33
- * @FilePath: \webpage\src\pages\userInfo\index.tsx
- */
 import { ProCard, ProList } from '@ant-design/pro-components';
 import { Descriptions, List, Card, Pagination, Rate, Button } from 'antd';
 import React, { useState, useEffect, FC } from 'react';

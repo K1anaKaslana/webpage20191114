@@ -1,11 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-28 16:43:32
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-09 09:11:10
- * @FilePath: \webpage\src\pages\movieDetail\index.tsx
- */
-
 import { PageContainer, ProCard } from '@ant-design/pro-components';
 import { Tag, Image, Button, Space } from 'antd';
 import { Typography, Divider, Rate } from 'antd';

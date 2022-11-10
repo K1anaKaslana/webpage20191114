@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 13:03:17
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-07 10:37:39
- * @FilePath: \webpage\src\app.tsx
- */
 import { ResponseError, RequestOptionsInit } from 'umi-request';
 import Footer from '@/components/Footer';
 import React from 'react';

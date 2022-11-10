@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 13:06:13
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-08 15:50:10
- * @FilePath: \webpage\src\typings.d.ts
- */
 declare namespace API {
   // 登录表单
   type LoginForm = {

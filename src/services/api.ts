@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 13:04:29
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-10-31 15:24:17
- * @FilePath: \webpage\src\services\api.ts
- */
 import { request } from 'umi';
 
 /** 获取当前的用户 GET /api/user/currentUser */

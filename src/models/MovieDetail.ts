@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-28 16:52:34
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-07 10:30:11
- * @FilePath: \webpage\src\models\MovieDetail.ts
- */
 import { Effect, Reducer, request, Subscription, useModel } from 'umi';
 
 export interface MovieDetailModelState {

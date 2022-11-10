@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 12:41:02
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-10-28 16:05:52
- * @FilePath: \webpage\config\config.ts
- */
 import { defineConfig } from 'umi';
 import routes from './routes';
 

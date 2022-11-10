@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-11-02 17:12:25
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-02 17:28:22
- * @FilePath: \webpage\src\pages\movieAll\colorTagEnum.tsx
- */
 export default {
   历史: {
     text: '历史',

@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-11-02 12:51:15
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-09 09:10:23
- * @FilePath: \webpage\src\pages\movieAll\index.tsx
- */
 import { ProTable } from '@ant-design/pro-components';
 import type { ActionType, ProColumns } from '@ant-design/pro-components';
 import { Button, Dropdown, Menu, Space, Tag, Image } from 'antd';

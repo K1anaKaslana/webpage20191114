@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 12:41:07
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-03 09:08:35
- * @FilePath: \webpage\config\routes.ts
- */
 export default [
   {
     path: '/',

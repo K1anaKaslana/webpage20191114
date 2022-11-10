@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-28 09:40:11
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-10-31 13:28:41
- * @FilePath: \webpage\src\TagColor.tsx
- */
 export default {
   历史: 'purple',
   爱情: 'magenta',

@@ -1,10 +1,3 @@
-/*
- * @Author: Leniakea
- * @Date: 2022-10-26 13:17:58
- * @LastEditors: Leniakea
- * @LastEditTime: 2022-11-08 15:12:52
- * @FilePath: \webpage\mock\api.ts
- */
 import { json, Request, Response } from 'express';
 import movieSimple from './movieSimple.json';
 import movieDetail from './movieDetail.json';
